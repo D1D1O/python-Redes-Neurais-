@@ -3,3 +3,12 @@ PAG 9 DEICXe sem data
 Apreder git é muito Bom.
 
 Testar as mudanças de sttus.
+
+git log comandos:
+
+git log --decorate
+git log --author="giovanny" --> procura os commits pelo nome do autor.
+git shortlog                --> Qual altor, quantos commits e quais foram.
+git shortlog -sn            -->Quantidade de commit e o nome da pessoa.
+git log --graph             -->Forma grafica oque esta acontecndo.
+git show adicionahashaqui
