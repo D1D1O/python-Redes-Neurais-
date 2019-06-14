@@ -18,3 +18,12 @@ Gostou don curso quer mais ajude com uma doação, até um café é vaido =)
 
 git diff --> lista as mudanças realizadas no codigo.
 git diff --name-only mosta os aquivos que foram modificados. 
+
+git commit -am "Edit Readme" --> editar um comit ja existe.
+
+git checkout   --> retorna o arquivo para antes da edição.
+
+git reset HEAD cursoGit.txt --> tira do status storage.
+asdfasdfasdf#
+asdfasdfasdf#
+
