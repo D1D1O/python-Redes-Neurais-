@@ -12,3 +12,9 @@ git shortlog                --> Qual altor, quantos commits e quais foram.
 git shortlog -sn            -->Quantidade de commit e o nome da pessoa.
 git log --graph             -->Forma grafica oque esta acontecndo.
 git show adicionahashaqui
+
+
+Gostou don curso quer mais ajude com uma doação, até um café é vaido =)
+
+git diff --> lista as mudanças realizadas no codigo.
+git diff --name-only mosta os aquivos que foram modificados. 
