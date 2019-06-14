@@ -26,4 +26,5 @@ git checkout   --> retorna o arquivo para antes da edição.
 git reset HEAD cursoGit.txt --> tira do status storage.
 asdfasdfasdf#
 asdfasdfasdf#
+asdfasdfasdf#
 
