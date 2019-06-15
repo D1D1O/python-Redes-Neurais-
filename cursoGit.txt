@@ -32,3 +32,17 @@ comando git reset possui tres variacoes
 	--soft  pegar as modificações votar as modificações status stage
 	--mixed mata e volta arquivo antes do stage modefi
 	--hard  reset brutal.
+git remote --> mostra onde esta conectado.
+
+git remote -v --> mostra onde o endereço do repositorio onde esta conectado.
+…or create a new repository on the command line
+echo "# python-Redes-Neurais-" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/D1D1O/python-Redes-Neurais-.git
+git push -u origin master
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/D1D1O/python-Redes-Neurais-.git
+git push -u origin master
