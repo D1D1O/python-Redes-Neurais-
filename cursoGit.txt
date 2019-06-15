@@ -28,3 +28,7 @@ asdfasdfasdf#
 asdfasdfasdf#
 asdfasdfasdf#
 
+comando git reset possui tres variacoes
+	--soft  pegar as modificações votar as modificações status stage
+	--mixed mata e volta arquivo antes do stage modefi
+	--hard  reset brutal.
